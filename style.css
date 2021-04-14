@@ -21,9 +21,7 @@ background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
 .logo:hover{
 opacity: 30%;
 }
-.navbar-toggler{
-  background-color: #d49b9b;
-}
+
 .nav-link{
   margin-right: 20px;
   color: black !important;

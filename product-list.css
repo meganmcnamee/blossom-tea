@@ -19,9 +19,7 @@ background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
 .logo:hover{
 opacity: 30%;
 }
-.navbar-toggler{
-  background-color: #d49b9b;
-}
+
 .nav-link{
   margin-right: 20px;
   color: black !important;
@@ -30,19 +28,7 @@ opacity: 30%;
   color: #818181 !important;
 }
 /* End of Nav */
-.btn0{
-background-color: coral;
-height: 45px;
-width: 150px;
-color: white;
-outline: none;
-border: none;
-}
-.btn0:hover{
-    background-color: white;
-    color: red;
-    transition: 0.4;
-}
+
 
 /*---*/
 
